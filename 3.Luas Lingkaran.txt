@@ -1,0 +1,7 @@
+
+1. Mulai
+2. Tentukan nilai phi 22/7 atau 3.14
+3. menghitung luas dengan phi x r x r
+4. kalkulasi 2 x phi x rad
+5. menghitung Hasil
+6. Selesai

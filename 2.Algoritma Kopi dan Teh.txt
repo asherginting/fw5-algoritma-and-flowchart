@@ -1,0 +1,9 @@
+Algoritma Kopi dan Teh
+
+1. Mulai
+2. Siapkan gelas kosong sebagai wadah untuk menampung (Gelas C)
+3. Tuangkan Teh (Gelas A) ke wadah kosong (Gelas C) sehingga (Gelas A) menjadi kosong
+4. Tuangkan Kopi ke (Gelas A) sehingga (Gelas B) yang berisi kopi menjadi kosong 
+5. Tuangkan (Gelas C) yang berisi teh ke (Gelas B) sehingga (Gelas C) akan menjadi kosong
+6. Bersihkan (Bersihkan Gelas C)
+7. Selesai
