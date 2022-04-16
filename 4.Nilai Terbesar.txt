@@ -1,5 +1,0 @@
-1. Mulai
-2. Masukkan nilai x dan y
-3. Jika x > y maka akan menampilkan x yang terbesar
-4. Jika y > x maka akan menampilkan y yang terbesar
-5. Selesai
