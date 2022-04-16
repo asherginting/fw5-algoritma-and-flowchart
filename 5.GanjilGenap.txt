@@ -1,5 +1,0 @@
-1. Mulai
-2. Masukkan sebuah bilangan
-3. Bagi bilangan tersebut dengan angka 2
-4. Jika hasil bagi 0 maka genap, jika tidak maka ganjil
-5. Selesai
